@@ -1,0 +1,19 @@
+{
+    "name": "senlek",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EAFLLMj6DcPDGEs8Ry4JVa8UtQKewhoUtZ9Xr9XbQXp2",
+          "share": 100
+        }
+      ]
+    }
+  }

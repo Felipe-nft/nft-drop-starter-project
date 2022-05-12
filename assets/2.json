@@ -1,0 +1,19 @@
+{
+    "name": "khaosoi",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EAFLLMj6DcPDGEs8Ry4JVa8UtQKewhoUtZ9Xr9XbQXp2",
+          "share": 100
+        }
+      ]
+    }
+  }
